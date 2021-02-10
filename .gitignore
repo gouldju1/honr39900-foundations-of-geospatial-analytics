@@ -133,3 +133,4 @@ dmypy.json
 *.log
 *.synctex.gz
 *.tex
+*.cls
