@@ -1,4 +1,4 @@
-# HONR XXX: Foundations of Geospatial Analytics
+# HONR 490: Foundations of Geospatial Analytics
 
 Important Links:
  - [Course Textbook](https://livebook.manning.com/book/postgis-in-action-third-edition/welcome/v-14/)
@@ -12,20 +12,18 @@ Important Links:
  <br><br><br>
 
 ## Course Information
- - **Course Number:** Data Mine Special Topics Course
+ - **Course Number:** HONR 490
  - **Course Name:** Foundations of Geospatial Analytics
  - **Semester:** Fall 2021
- - **CRN:** INSERT
  - **Meeting Location, Day(s), and Time:** INSERT
  - **Instructional Modality:** Face-to-Face
  - **Course Credit Hours:** 1
- - **Prerequisites:** Working knowledge of Python and strong understanding of SQL
-   - We will be using PostGIS, and the SQL can get fairly complex. A strong understanding of SQL is recommended. The first week of the course will serve as a review; however, coming into the course, you should know the differences between the types of JOINs, how to use nested queries, and how to use subqueries in SELECT statements.
-   - If you have spent at least 1 year in The Data Mine, then you have the necessary background for this course.
+ - **Prerequisites:** Working knowledge of Python and an understanding of SQL
+   - We will be using PostGIS, and the SQL can get fairly complex. An understanding of SQL is recommended. The first week of the course will serve as a review; however, coming into the course, you should know the differences between the types of JOINs, how to use nested queries, and how to use subqueries in SELECT statements.
 
 ## Instructor Contact Information
  - **Name of the Instructor:** Justin Gould
- - **Office Location:** Hillenbrand Hall
+ - **Office Location:** Convergence Center
  - **Purdue Email Address:** gould29@purdue.edu
    - Emails are read 7:00 to 17:00 EST during school days, and will be responded to within 24 hours.
    - I receive many emails during the day. It will really help me find your email if you put our class number in the subject line of the email. Thank you in advance!
