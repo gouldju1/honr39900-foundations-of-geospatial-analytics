@@ -8,7 +8,7 @@ Important Links:
 
  # Syllabus Information
 
- **NOTE: You can find the syllabus [here]() and on [Brightspace](https://purdue.brightspace.com/d2l/login); however, all its content is below, for your convenience.**
+ **NOTE: You can find the syllabus [here](https://raw.githubusercontent.com/gouldju1/honr-foundations-of-geospatial-analytics/master/Foundations%20of%20Geospatial%20Analytics%20Syllabus.pdf) and on [Brightspace](https://purdue.brightspace.com/d2l/login); however, all its content is below, for your convenience.**
  <br><br><br>
 
 ## Course Information
