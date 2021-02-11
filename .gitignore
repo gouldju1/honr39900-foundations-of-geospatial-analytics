@@ -2,7 +2,9 @@
 *.pytest_cache
 conftest.py
 test.py
-Untitled.ipynb
+Working.ipynb
+run_test.sh
+solution_*.py
 
 # Python
 # Byte-compiled / optimized / DLL files
