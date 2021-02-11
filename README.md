@@ -54,6 +54,9 @@ Maps are everywhere around us: in our cars, on our phones, and driving public he
    - Visit Ask a Librarian to connect with helpful resources and services provided by the Purdue Libraries and School of Information Studies for course assignments and projects.
  - **Brightspace:**
    - Access the course via Purdue’s Brightspace learning management system. It is strongly suggested that you explore and become familiar not only with the site navigation but with content and resources available for this course.
+ - **GitHub:**
+   - All homework assignments and information will be available on the course GitHub: https://github.com/gouldju1/honr490-foundations-of-geospatial-analytics
+
 
 ## Learning Outcomes
 By the end of the course, you will be able to:
