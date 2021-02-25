@@ -43,7 +43,6 @@ Maps are everywhere around us: in our cars, on our phones, and driving public he
 ## Learning Resources, Technology, & Texts
  - **Required Textbook:**
    - Obe, Regina O., and Leo S. Hsu. PostGIS in Action. 3rd ed., Manning, 2021.
-     - Free Ebook: https://livebook.manning.com/book/postgis-in-action-third-edition/welcome/v-14/
      - Purchase: https://www.manning.com/books/postgis-in-action-third-edition?a_bid=5e00124f&a_aid=PostGISInAction
  - **Software:**
    - Laptop (either MacOS or Windows is fine)
@@ -78,12 +77,12 @@ By the end of the course, you will be able to:
 |--------------------------------------------------------|-----------------------------------------------|------|
 |Homework (Interactive Labs/“Notebook”-Style Assignments)|23:59 EST/EDT the day before our class; ongoing|**240**   |
 |Midterm Project                                         |10/10 at 23:59 EDT                             |**300**   |
-|Final Project                                           |12/12 at 23:59 EST                             |**460**   |
+|Final Project                                           |12/12 at 23:59 EST                             |**450**   |
 ||**TOTAL**|**1000**
 
- - Homework (12 assignments at 20 points each, for a total of 240 points; ongoing, but due at 23:59 EST/EDT the day before our class). These will be interactive assignments, such as Jupyter notebooks, or .py files which must pass a series of unit tests. Grades will be provided based on passing unit tests, accuracy, and completing the assignment, per the provided instructions.
+ - Homework (10 assignments at 25 points each, for a total of 250 points; ongoing, but due at 23:59 EST/EDT the day before our class). These will be interactive assignments, such as Jupyter notebooks, or .py files which must pass a series of unit tests. Grades will be provided based on passing unit tests, accuracy, and completing the assignment, per the provided instructions.
  - Midterm project (300 points; due October 10 at 23:59 EDT). Details about this project are in Brightspace under Assignments, including the grading rubric. A presentation will be given in class on October 18.
- - Final project (460 points; due December 12 at 23:59 EST). Details about this project are in Brightspace under Assignments, including the grading rubric. A final presentation will be given in class during finals week.
+ - Final project (450 points; due December 12 at 23:59 EST). Details about this project are in Brightspace under Assignments, including the grading rubric. A final presentation will be given in class during finals week.
 
 ## Makeup Work and Due Dates
 I want to see you learn, grow, succeed, and come to love geospatial analytics as much as I do. It is your responsibility to turn in all work and projects before the due date. With that being said, life happens, and flexibility is sometimes required—especially during the COVID-19 pandemic. That is OK! If you are having any issues with the assignments or projects, which may mor may not impact your ability to submit by the due date, please email me ASAP. We will work together to come up with an amicable solution. Please see below for makeup work policies:
