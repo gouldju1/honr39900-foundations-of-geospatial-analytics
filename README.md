@@ -15,7 +15,7 @@ Important Links:
  - **Course Number:** HONR 490
  - **Course Name:** Foundations of Geospatial Analytics
  - **Semester:** Fall 2021
- - **Meeting Location, Day(s), and Time:** INSERT
+ - **Meeting Location, Day(s), and Time:** Tuesday 9:30-10:20 AM| INSERT
  - **Instructional Modality:** Face-to-Face
  - **Course Credit Hours:** 1
  - **Prerequisites:** Working knowledge of Python and an understanding of SQL
@@ -76,13 +76,13 @@ By the end of the course, you will be able to:
 |Assignments                                             |Due                                            |Points|
 |--------------------------------------------------------|-----------------------------------------------|------|
 |Homework (Interactive Labs/“Notebook”-Style Assignments)|23:59 EST/EDT the day before our class; ongoing|**240**   |
-|Midterm Project                                         |10/10 at 23:59 EDT                             |**300**   |
-|Final Project                                           |12/12 at 23:59 EST                             |**450**   |
+|Midterm Project                                         |10/11 at 23:59 EDT                             |**300**   |
+|Final Project                                           |12/13 at 23:59 EST                             |**450**   |
 ||**TOTAL**|**1000**
 
  - Homework (10 assignments at 25 points each, for a total of 250 points; ongoing, but due at 23:59 EST/EDT the day before our class). These will be interactive assignments, such as Jupyter notebooks, or .py files which must pass a series of unit tests. Grades will be provided based on passing unit tests, accuracy, and completing the assignment, per the provided instructions.
- - Midterm project (300 points; due October 10 at 23:59 EDT). Details about this project are in Brightspace under Assignments, including the grading rubric. A presentation will be given in class on October 18.
- - Final project (450 points; due December 12 at 23:59 EST). Details about this project are in Brightspace under Assignments, including the grading rubric. A final presentation will be given in class during finals week.
+ - Midterm project (300 points; due October 11 at 23:59 EDT). Details about this project are in Brightspace under Assignments, including the grading rubric. A presentation will be given in class on October 18.
+ - Final project (450 points; due December 13 at 23:59 EST). Details about this project are in Brightspace under Assignments, including the grading rubric. A final presentation will be given in class during finals week.
 
 ## Makeup Work and Due Dates
 I want to see you learn, grow, succeed, and come to love geospatial analytics as much as I do. It is your responsibility to turn in all work and projects before the due date. With that being said, life happens, and flexibility is sometimes required—especially during the COVID-19 pandemic. That is OK! If you are having any issues with the assignments or projects, which may mor may not impact your ability to submit by the due date, please email me ASAP. We will work together to come up with an amicable solution. Please see below for makeup work policies:
