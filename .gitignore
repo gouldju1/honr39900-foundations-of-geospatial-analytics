@@ -13,9 +13,10 @@ final_map.png
 homework_3_solution.pdf
 homework_3.qgz
 Foundations of Geospatial Analytics Syllabus.docx
-HONR490 Final Presentation Rubric.docx
-HONR490 Midterm Presentation Rubric.docx
-HONR490 Essay Rubric.docx
+HONR25315 Final Presentation Rubric.docx
+HONR25315 Midterm Presentation Rubric.docx
+HONR25315 Essay Rubric.docx
+*.out
 
 # Python
 # Byte-compiled / optimized / DLL files
