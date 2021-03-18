@@ -44,6 +44,7 @@ Maps are everywhere around us: in our cars, on our phones, and driving public he
  - **Required Textbook:**
    - Obe, Regina O., and Leo S. Hsu. PostGIS in Action. 3rd ed., Manning, 2021.
      - Purchase: https://www.manning.com/books/postgis-in-action-third-edition?a_bid=5e00124f&a_aid=PostGISInAction
+   - The second edition is available through the Purdue Library: https://purdue-primo-prod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=PURDUE_ALMA51793361150001081&context=L&vid=PURDUE&lang=en_US&search_scope=everything&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,postgis%20in%20action&facet=rtype,exclude,reviews,lk&facet=rtype,exclude,reference_entrys,lk 
  - **Software:**
    - Laptop (either MacOS or Windows is fine)
    - Python >= 3.6.x & < 3.9.x: https://www.python.org/downloads/
@@ -119,10 +120,6 @@ Only the instructor can excuse a student from a course requirement or responsibi
 
 ## Academic Guidance in the Event a Student is Quarantined/Isolated
 If you must quarantine or isolate at any point in time during the semester, please reach out to me via email so that we can communicate about how you can continue to learn remotely. Work with the Protect Purdue Health Center (PPHC) to get documentation and support, including access to an Academic Case Manager who can provide you with general guidelines/resources around communicating with your instructors, be available for academic support, and offer suggestions for how to be successful when learning remotely. Your Academic Case Manager can be reached at acmq@purdue.edu. Importantly, if you find yourself too sick to progress in the course, notify your academic case manager and notify me via email or Brightspace. We will make arrangements based on your particular situation.
-
-## Course Schedule*
-![Schedule](./assets/course_schedule.png)
-*Schedule and assignments subject to change. Any changes will be posted in the learning management system. See https://www.purdue.edu/registrar/calendars/2021-22-Academic-Calendar.html for important semester dates.
 
 ## Classroom Guidance Regarding Protect Purdue
 The [Protect Purdue Plan](https://protect.purdue.edu/plan/), which includes the [Protect Purdue Pledge](https://protect.purdue.edu/pledge/?_ga=2.210401429.1213937682.1590527202-1814553957.1589408073), is campus policy and as such all members of the Purdue community must comply with the required health and safety guidelines. Required behaviors in this class include: staying home and contacting the Protect Purdue Health Center (765) 496-INFO if you feel ill or know you have been exposed to the virus, properly wearing a mask [in classrooms and campus buildings](https://protect.purdue.edu/updates/face-covering-protocols/), at all times (e.g., mask covers nose and mouth, no eating/drinking in the classroom), disinfecting desk/workspace before and after use, maintaining appropriate social distancing with peers and instructors (including when entering/exiting classrooms), refraining from moving furniture, avoiding shared use of personal items, maintaining robust hygiene (e.g., handwashing, disposal of tissues) prior to, during and after class, and following all safety directions from the instructor.
