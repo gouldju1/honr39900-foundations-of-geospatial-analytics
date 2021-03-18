@@ -75,7 +75,7 @@ By the end of the course, you will be able to:
 ## Assignments
 |Assignments                                             |Due                                            |Points|
 |--------------------------------------------------------|-----------------------------------------------|------|
-|Homework (Interactive Labs/“Notebook”-Style Assignments)|23:59 EST/EDT the day before our class; ongoing|**240**   |
+|Homework (Interactive Labs/“Notebook”-Style Assignments)|23:59 EST/EDT the day before our class; ongoing|**250**   |
 |Midterm Project                                         |10/11 at 23:59 EDT                             |**300**   |
 |Final Project                                           |12/13 at 23:59 EST                             |**450**   |
 ||**TOTAL**|**1000**
