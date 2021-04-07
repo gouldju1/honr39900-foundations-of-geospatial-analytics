@@ -1,4 +1,4 @@
-# HONR 25315: Foundations of Geospatial Analytics
+# HONR 39900: Foundations of Geospatial Analytics
 
 Important Links:
  - [Course Textbook](https://livebook.manning.com/book/postgis-in-action-third-edition/welcome/v-14/)
@@ -8,11 +8,11 @@ Important Links:
 
  # Syllabus Information
 
- **NOTE: You can find the syllabus [here](https://raw.githubusercontent.com/gouldju1/honr25315-foundations-of-geospatial-analytics/master/Foundations%20of%20Geospatial%20Analytics%20Syllabus.pdf) and on [Brightspace](https://purdue.brightspace.com/d2l/login); however, all its content is below, for your convenience.**
+ **NOTE: You can find the syllabus [here](https://raw.githubusercontent.com/gouldju1/honr39900-foundations-of-geospatial-analytics/master/Foundations%20of%20Geospatial%20Analytics%20Syllabus.pdf) and on [Brightspace](https://purdue.brightspace.com/d2l/login); however, all its content is below, for your convenience.**
  <br><br><br>
 
 ## Course Information
- - **Course Number:** HONR 25315
+ - **Course Number:** HONR 39900
  - **Course Name:** Foundations of Geospatial Analytics
  - **Semester:** Fall 2021
  - **Meeting Location, Day(s), and Time:** Tuesday 9:30-10:20 AM | HCRN 1143
@@ -55,7 +55,7 @@ Maps are everywhere around us: in our cars, on our phones, and driving public he
  - **Brightspace:**
    - Access the course via Purdue’s Brightspace learning management system. It is strongly suggested that you explore and become familiar not only with the site navigation but with content and resources available for this course.
  - **GitHub:**
-   - All homework assignments and information will be available on the course GitHub: https://github.com/gouldju1/honr25315-foundations-of-geospatial-analytics
+   - All homework assignments and information will be available on the course GitHub: https://github.com/gouldju1/honr39900-foundations-of-geospatial-analytics
 
 
 ## Learning Outcomes
