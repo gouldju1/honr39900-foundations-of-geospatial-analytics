@@ -75,19 +75,19 @@ By the end of the course, you will be able to:
 ## Assignments
 |Assignments                                             |Due                                            |Points|
 |--------------------------------------------------------|-----------------------------------------------|------|
-|Homework (Interactive Labs/“Notebook”-Style Assignments)|23:59 EST/EDT the day before our class; ongoing|**250**   |
-|Midterm Project                                         |10/11 at 23:59 EDT                             |**300**   |
-|Final Project                                           |12/13 at 23:59 EST                             |**450**   |
+|Homework (Interactive Labs/“Notebook”-Style Assignments)|23:59 EST/EDT the day before our class; ongoing|**500**   |
+|Midterm Project                                         |10/11 at 23:59 EDT                             |**200**   |
+|Final Project                                           |12/13 at 23:59 EST                             |**300**   |
 ||**TOTAL**|**1000**
 
- - Homework (10 assignments at 25 points each, for a total of 250 points; ongoing, but due at 23:59 EST/EDT the day before our class). These will be interactive assignments, such as Jupyter notebooks, or .py files which must pass a series of unit tests. Grades will be provided based on passing unit tests, accuracy, and completing the assignment, per the provided instructions.
- - Midterm project (300 points; due October 11 at 23:59 EDT). Details about this project are in Brightspace under Assignments, including the grading rubric. A presentation will be given in class on October 18.
- - Final project (450 points; due December 13 at 23:59 EST). Details about this project are in Brightspace under Assignments, including the grading rubric. A final presentation will be given in class during finals week.
+ - Homework (10 assignments at 50 points each, for a total of 500 points; ongoing, but due at 23:59 EST/EDT the day before our class). These will be interactive assignments, such as Jupyter notebooks, or .py files which must pass a series of unit tests. Grades will be provided based on passing unit tests, accuracy, and completing the assignment, per the provided instructions.
+ - Midterm project (200 points; due October 11 at 23:59 EDT). Details about this project are in Brightspace under Assignments, including the grading rubric. A presentation will be given in class on October 18.
+ - Final project (300 points; due December 13 at 23:59 EST). Details about this project are in Brightspace under Assignments, including the grading rubric. A final presentation will be given in class during finals week.
 
 ## Makeup Work and Due Dates
 I want to see you learn, grow, succeed, and come to love geospatial analytics as much as I do. It is your responsibility to turn in all work and projects before the due date. With that being said, life happens, and flexibility is sometimes required—especially during the COVID-19 pandemic. That is OK! If you are having any issues with the assignments or projects, which may mor may not impact your ability to submit by the due date, please email me ASAP. We will work together to come up with an amicable solution. Please see below for makeup work policies:
- - **Homework:** If you miss a due date, and I do not hear from you before the prescribed due date, you will receive a 0 for that assignment, and there will be no makeup work available.
- - **Projects:** If you miss a due date, and I do not hear from you before the prescribed due date, your project portion of the grade (not the presentation portion) will reduce 100 points every day the project is not submitted.
+ - **Homework:** If you miss a due date, and I do not hear from you before the prescribed due date/have a documented emergency, you will receive a 0 for that assignment, and there will be no makeup work available.
+ - **Projects:** If you miss a due date, and I do not hear from you before the prescribed due date/have a documented emergency, your project portion of the grade (not the presentation portion) will reduce 100 points every day the project is not submitted.
 
 ## Grading Scale
 In this class, grades reflect the sum of your achievement throughout the semester. You will accumulate points as described in the assignments portion above. At the end of the semester, final grades will be calculated by adding the total points earned and translating those numbers (out of 1000) into the following letters (there will be no partial points or rounding).
