@@ -31,7 +31,7 @@ Important Links:
    - If you are unable to make my office hours, please schedule a time with me via Calendly (link above). We can meet in my office, virtually via WebEx, or even take a walk around campus.
  - **Office Hours:**
    - My dedicated office hours will be:
-     - Tuesdays: 11:00-12:00 EDT/EST and 13:00-14:00 EDT/EST
+     - Mondays/Tuesdays: 14:30-15:30 EDT/EST
  - **Course Co-Sponsor:** Mark Daniel Ward
  - **Course Co-Sponsor Email:** mdw@purdue.edu
  - **Course Co-Sponsor Office:** Hillenbrand Hall
