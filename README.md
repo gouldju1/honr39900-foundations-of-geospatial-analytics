@@ -1,4 +1,4 @@
-# HONR 39900: Foundations of Geospatial Analytics
+# HONR 39900: Foundations of Geospatial Analytics 
 
 Important Links:
  - [Course Textbook](https://livebook.manning.com/book/postgis-in-action-third-edition/welcome/v-14/)
